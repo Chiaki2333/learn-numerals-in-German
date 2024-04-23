@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 '''
-
-
+Github: https://github.com/Chiaki2333/learn-numerals-in-German
+version: 1.0
 '''
 
 import math
